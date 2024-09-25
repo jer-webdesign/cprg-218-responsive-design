@@ -11,3 +11,9 @@ body{
     background-color:red;
   }
 }
+
+@media screen and (max-width:320) {
+  body{
+    background-color:yellow;
+  }
+}
